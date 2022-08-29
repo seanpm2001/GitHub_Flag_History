@@ -137,16 +137,36 @@ No incidents reported
 
 ### 2022 July
 
-- 2022 July 19th - ongoing [`@seanpm2001`](https://github.com/seanpm2001/)  and ~999 organizations (out of 1000) flagged
+- 2022 July 19th - 2022, August 25th (39 days) [`@seanpm2001`](https://github.com/seanpm2001/)  and ~999 organizations (out of 1000) flagged
 
 Information comes from my alt account [`@seanwallawalla`](https://github.com/seanwallawalla/) and has been mirrored here manually since 2022 July 27th.
 
 * [Source link](https://github.com/seanwallawalla/Seanpm2001_GitHub-Account-Flagged-2022July19th/)
 * [Local link](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/)
 
+#### Result
+
+* All organizations deleted manually
+* Account restored with missing functionality in some areas
+* Lots of stress
+* Lots of lost opportunity
+
 ### 2022 August
 
-No incidents reported
+- 2022 July 19th - 2022, August 25th (39 days) [`@seanpm2001`](https://github.com/seanpm2001/)  and ~999 organizations (out of 1000) flagged
+
+Information comes from my alt account [`@seanwallawalla`](https://github.com/seanwallawalla/) and has been mirrored here manually since 2022 July 27th.
+
+* [Source link](https://github.com/seanwallawalla/Seanpm2001_GitHub-Account-Flagged-2022July19th/)
+* [Local link](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/)
+
+#### Result
+
+* All organizations deleted manually
+* Account restored with missing functionality in some areas
+* Lots of stress
+* Lots of lost opportunity
+
 
 ### 2022 September
 
@@ -172,9 +192,9 @@ No incidents reported
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2022, Friday, July 29th at 3:11 pm PST)`
+**File version:** `3 (2022, Sunday, August 28th at 8:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `268`
+**Line count (including blank lines and compiler line):** `303`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -259,6 +279,21 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 2
+
+</details>
+
+<details><summary><p lang="en"><b>Version 3 (2022, Sunday, August 28th at 8:20 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `2020` section
+- - [x] Updated the `2022 July` subsection
+- - [x] Updated the `2022 August` subsection
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 3
 
 </details>
 
